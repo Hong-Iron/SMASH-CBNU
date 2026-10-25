@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "법학전문대학원 (N2)": {
+      "style": "ribbon",
+      "wall": "#e8e9e7",
+      "glass": "#4d5a6e",
+      "frame": "#cfd3d4"
+    },
+    "개신문화관 (E2)": {
+      "style": "ribbon",
+      "wall": "#e4e1db",
+      "glass": "#3d4348",
+      "frame": "#c4bbb2"
+    },
+    "중앙도서관 구관 (N12)": {
+      "style": "stone",
+      "wall": "#d8d8d2",
+      "glass": "#3c4044",
+      "frame": "#e8e8e4"
+    },
+    "농업생명과학대학 실험동 (S21-5)": {
+      "style": "brick",
+      "wall": "#8a5f55",
+      "glass": "#2f363c",
+      "frame": "#c9c4bc"
+    },
+    "건설공학관 (E8-3)": {
+      "style": "brick",
+      "wall": "#8f5a48",
+      "glass": "#2f363c",
+      "frame": "#c8c2b8"
+    },
+    "신학생회관 (E3)": {
+      "style": "brick",
+      "wall": "#8a5a4c",
+      "glass": "#2f3438",
+      "frame": "#c8c6c0"
+    },
+    "인문대학 본관 (N16-1)": {
+      "style": "brick",
+      "wall": "#6f4c45",
+      "glass": "#2f363c",
+      "frame": "#b8b2aa"
+    },
+    "공대공학관 (E8-7)": {
+      "style": "brick",
+      "wall": "#74504a",
+      "glass": "#2f363c",
+      "frame": "#c8c2ba"
+    },
+    "자연과학대학 본관 (S1-1)": {
+      "style": "brick",
+      "wall": "#6e5050",
+      "glass": "#2e3a44",
+      "frame": "#b8b4b0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
